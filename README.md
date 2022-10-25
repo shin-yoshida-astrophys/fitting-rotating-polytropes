@@ -2,6 +2,9 @@
 Fitting rotating polytropic stellar models with simple analytic
 formulae.
 
+Individual fitting formulae for N=1, 1.5, 3.0 are submitted to RNAAS.
+
+
 [Data files]
 
  omegadat.d: 1st column=polytropic index; 2nd column=normalized oblateness; 3rd column=normalized rotational frequency squared
